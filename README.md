@@ -34,5 +34,5 @@ Firmware for ESP32 microcontroller to control an LED with advanced features:
 - 📧 Email: [arttutuominen10@gmail.com](mailto:arttutuominen10@gmail.com)  
 - 📱 Phone: +358 44 0278859  
 - 🔗 LinkedIn: [linkedin.com/in/arttu-tuominen-86218b224](https://www.linkedin.com/in/arttu-tuominen-86218b224/)  
-- 📄 [Download CV](link-to-your-cv.pdf)  *(coming soon)*
-- 🌐 [Portfolio Website](https://yourusername.github.io) *(coming soon)*  
+- 📄 Check My CV: [CV For English](https://github.com/Tuominen04/Tuominen/blob/main/arttu_tuominen_cv_en.pdf)
+- 🌐 [Portfolio Website](https://yourusername.github.io) *(coming soon)*
